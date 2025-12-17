@@ -9,9 +9,9 @@ body { font-family: 'Poppins', sans-serif; line-height: 1.6; color: #333; scroll
 .nav-menu a { text-decoration: none; color: #333; font-weight: 500; transition: color 0.3s; }
 .nav-menu a:hover { color: #007bff; }
 .hamburger { display: none; flex-direction: column; cursor: pointer; }
-.hamburger span { width: 25px; height: 3px; background: #333; margin: 3px 0; transition: 0.3s; }
+.hamburger span { width: 25px; height: 3px; background: #9e9b9b; margin: 3px 0; transition: 0.3s; }
 
-.hero { height: 100vh; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center; text-align: center; color: white; }
+.hero { height: 100vh; background: linear-gradient(135deg, #71799e 0%, #5588f5 100%); display: flex; align-items: center; justify-content: center; text-align: center; color: white; }
 .hero-content h1 { font-size: 3.5rem; margin-bottom: 1rem; }
 .hero-content span { color: #ffd700; }
 .hero-content p { font-size: 1.3rem; margin-bottom: 2rem; }
